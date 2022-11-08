@@ -1,5 +1,5 @@
 ---
-bb_install_path: "/usr/local/bin/bb"
+bb_install_path: "/opt/bb"
 
 bb_install_workdir: "/tmp"
 bb_install_script_name: "linux-install-bb.sh"
